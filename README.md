@@ -12,3 +12,7 @@ contient des informations sur chaque pays du monde sur des aspects géographique
 La premier étape de ce projet était de produire, à partir de différents fichiers de données csv la base de donnée "World_FactBook.csv".
 La seconde étape a été est d’effectuer une étude observationnelle et établir des corrélations via la régression
 linéaire sur l’ensemble de données "World_FactBook.csv".
+
+## Exemple d'une étude de corrélation :
+
+![alt text](https://github.com/JessicaGourdon/EtudeStatistique/blob/main/Capture%20d%E2%80%99%C3%A9cran%20(47).png)
